@@ -10,6 +10,7 @@ You should create one R script called run_analysis.R that does the following.
     Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Steps
+
     a) Download the data source and save it on your local drive. Unzip the file and you have  the UCI HAR Dataset folder.
     b) Put run_analysis.R in the parent folder of UCI HAR Dataset
     c) Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
